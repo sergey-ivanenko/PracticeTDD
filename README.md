@@ -1,1 +1,1 @@
-task/003-range done.
+task/003-range done
